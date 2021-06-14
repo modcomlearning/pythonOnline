@@ -5,7 +5,6 @@ while(x < 5):
     height = float(input('Your Height: '))
     area = 1/2 * base * height
     print('Area is ', area)
-
     x = x + 1
 
 

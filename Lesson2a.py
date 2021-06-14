@@ -8,7 +8,6 @@
 
 
 marks = 40
-
 #  works if marks less than 50
 if marks < 50:
     print('You Failed')
